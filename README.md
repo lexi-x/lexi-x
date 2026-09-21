@@ -18,5 +18,5 @@ CS & Cog Sci student at Rice University specializing in ML and agentic engineeri
 ---
 
 ### Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://linkedin.com/in/lexi-x)
 - 📧 [Email](lx31@rice.edu)
