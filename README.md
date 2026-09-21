@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Lexi Xu
 <!--
 **lexi-x/lexi-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+CS & Cog Sci student at Rice University specializing in ML and agentic engineering. 
+---
+
+### Connect with Me
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 [Email](lx31@rice.edu)
