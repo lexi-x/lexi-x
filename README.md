@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with Me
+- ✨ [Portfolio](https://lexi-x.github.io)
 - 💼 [LinkedIn](https://linkedin.com/in/lexi-xu)
 - 📧 [Email](lx31@rice.edu)
